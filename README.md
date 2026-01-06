@@ -6,7 +6,6 @@ I am a **Software Development Technologist** and **Social Communicator** from **
 
 This GitHub repository is where I store and share my **academic and personal projects**, including experiments, prototypes, and learning-driven initiatives that reflect my professional journey and curiosity.
 
----
 
 ## 🌱 About Me
 
@@ -17,7 +16,6 @@ This GitHub repository is where I store and share my **academic and personal pro
 * 🎮 Experience exploring **gamification** and **behavior change** through digital products
 * 🌍 Comfortable working in **remote and collaborative environments**
 
----
 
 ## 🧪 What You'll Find Here
 
@@ -27,7 +25,6 @@ This GitHub repository is where I store and share my **academic and personal pro
 
 This space represents my continuous learning process, where I explore ideas, test tools, and turn concepts into practical solutions.
 
----
 
 ## 🔧 Tools & Interests
 
@@ -36,7 +33,6 @@ This space represents my continuous learning process, where I explore ideas, tes
 * **Design Focus:** Mobile UX (iOS & Android), Human-Centered Design, Gamification
 * **Mindset:** Curiosity-driven, analytical, and purpose-oriented
 
----
 
 ## 🚀 Current Interests
 
