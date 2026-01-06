@@ -1,4 +1,4 @@
-# Hello there ¡nice to meet you!, I'm Diana 👋
+# Hello there. ¡Nice to meet you!, I'm Diana Marcela
 
 Welcome to my GitHub profile!
 
